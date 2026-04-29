@@ -2,6 +2,10 @@ body {
   background-color: palegreen;
 }
 
+nav {
+  border: 5px dotted green;
+}
+
 h1 {
   color: black;
   text-align: center;
