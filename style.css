@@ -5,6 +5,7 @@ body {
 nav {
   border: 5px dotted green;
   text-color: green;
+  text-align: center;
 }
 
 .nav-link {
