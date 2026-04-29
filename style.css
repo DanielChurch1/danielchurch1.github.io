@@ -1,11 +1,11 @@
 body {
   background-color: palegreen;
-  display: inline-block;
 }
 
 nav {
   border: 5px dotted green;
   text-color: green;
+  display: inline-block;
 }
 
 h1 {
