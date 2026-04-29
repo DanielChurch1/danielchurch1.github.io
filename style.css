@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-  border: 5px green;
+  border: 5px solid green;
   text-color: green;
   text-align: center;
 }
