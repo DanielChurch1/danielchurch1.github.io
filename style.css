@@ -1,5 +1,7 @@
 body {
   background-color: palegreen;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 nav {
