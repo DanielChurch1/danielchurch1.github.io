@@ -1,11 +1,12 @@
 body {
-  background-color: palegreen;
+  background-color: white;
   margin-left: auto;
   margin-right: auto;
 }
 
 nav {
-  border: 5px solid green;
+  border: 2px solid green;
+  background-color: palegreen;
   text-color: green;
   text-align: center;
 }
