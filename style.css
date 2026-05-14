@@ -32,13 +32,13 @@ p {
 
 
 a:link {
-  color: white;
+  color: red;
   
   text-decoration: none;
 }
 
 a:visited {
-  color: white;
+  color: red;
   
   text-decoration: none;
 }
