@@ -28,3 +28,29 @@ h1 {
 p {
   font-family: Helevetica;
 }
+
+
+
+a:link {
+  color: white;
+  
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  
+  text-decoration: none;
+}
+
+a:hover {
+  color: #74C2DC;
+  
+  text-decoration: underline;
+}
+
+a:active {
+  color: indigo;
+  
+  text-decoration: underline;
+}
